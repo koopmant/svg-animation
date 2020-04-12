@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 350" class="banner-overlay"> 
+  <defs>
+    <linearGradient id="mycolor">
+      <stop offset="0" stop-color="var(--color-stop)" />
+    </linearGradient>
+    <filter id="dropshadow" x="-.1" y="-.1" width="200%" height="200%">
+      <feOffset result="offOut" in="SourceAlpha" dx="0" dy="3" />
+      <feColorMatrix result="matrixOut" in="offOut" type="matrix"
+      values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .2 0" />
+      <feGaussianBlur result="blurOut" in="matrixOut" stdDeviation="2" />
+      <feBlend in="SourceGraphic" in2="blurOut" mode="normal" />
+    </filter>
+  </defs>
+  <g>
+    <title>background</title>
+    <rect fill="none" id="canvas_background" height="350" width="900" y="0" x="510"/>
+  </g>
+  <g filter="url(#dropshadow)">
+    <g>
+      <title>Layer 1</title>
+      <path id="open-O"
+        d="m860.758744,120.317365 
+        c-8.97553,-27.78607 -34.99118,-47.91411 -65.76736,-47.9244 
+        c-38.18202,0.01029 -69.15376,30.96147 -69.15891,69.15894 
+        c0.01029,38.20263 30.98204,69.14866 69.16406,69.15895
+        c30.77103,0 56.79182,-20.1229 65.76221,-47.90896"
+        stroke-opacity="null" stroke-width="4" stroke="url(#mycolor)" fill="none"/>
+      <g id="text-center">
+        <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="112.06839" x="874.269672" stroke-width="0" stroke="#000" fill="url(#mycolor)">ALKMAARSE</text>
+        <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_2" y="149.993187" x="873.269672" stroke-width="0" stroke="#000" fill="url(#mycolor)">RTHODONTISTEN</text>
+      </g>
+      <g id="text-bottom-right">
+        <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="32" id="svg_3" y="273.783667" x="1062.037926" stroke-width="0" stroke="#000" fill="url(#mycolor)">blij-in-de-rij</text>
+        <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_4" y="332.846167" x="1009.397301" stroke-width="0" stroke="#000" fill="url(#mycolor)">ziekenhuis Alkmaar</text>
+      </g>
+      <g id="rotated-Us">
+        <text transform="rotate(40 697.71458435058597,219.57568359375) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" id="svg_14" y="236.117993" x="680.383692" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+        <text transform="rotate(-20 692.32415771484386,148.8172149658203) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" id="svg_15" y="165.348522" x="674.999066" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+        <text transform="rotate(-130 712.32293701171875,78.03605651855472) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" id="svg_16" y="94.579053" x="694.999132" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+        <text transform="rotate(140 782.332763671875,30.34487533569337) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" id="svg_17" y="46.886589" x="764.999375" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+      </g>
+    </g>
+    <g>
+      <title>Layer 2</title>
+      <g id="u1-container"> 
+        <text id="u1" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" y="282" x="1011.537926" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+      </g>
+      <g id="u2-container">
+        <text id="u2" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" y="282" x="971.537926" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+      </g>
+      <g id="u3-container"> 
+        <text id="u3" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" y="282" x="931.537926" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+      </g>
+      <g id="u4-container"> 
+        <text id="u4" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" y="282" x="891.537926" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+      </g>
+      <g id="u5-container"> 
+        <text id="u5" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" y="282" x="851.537926" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+      </g>
+      <g id="u6-container"> 
+        <text id="u6" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" y="282" x="811.537926" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+      </g>
+      <g id="u7-container"> 
+        <text id="u7" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" y="282" x="771.537926" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+      </g>
+      <g id="u8-container"> 
+        <text id="u8" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="48" y="282" x="731.537926" stroke-width="0" stroke="#000" fill="url(#mycolor)">U</text>
+      </g>
+    </g>
+  </g>
+</svg>
